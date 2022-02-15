@@ -1,0 +1,18 @@
+{
+  "name": "wdtg-shobu-tournament",
+  "version": "1.0.0",
+  "description": "Aplikacja rozgrywająca turniej w ramach zaliczenia przedmiotu WdTG",
+  "main": "tournament.js",
+  "author": "Arkadiusz Nowakowski",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "implement-js": "0.0.31",
+    "roundrobin": "^1.0.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
