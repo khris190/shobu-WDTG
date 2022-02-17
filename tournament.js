@@ -64,7 +64,7 @@ switch (args[0]) {
 		});
 		break;
 	default:
-		NUMBER_OF_GAMES = 100;
+		NUMBER_OF_GAMES = 50; // TODO: restore to 100
 		participants = [
 			['rnd', require('./participants/random')(), [], []]
 		];
